@@ -164,4 +164,9 @@ const add2Ref = (array, val) => {
 
 add2Ref(hobbies, "Eating")
 console.log(hobbies)
+
+//or without push
+const add2Ref = (array, val) => {
+    array[array.length] = val
+}
 ```
