@@ -1,0 +1,9 @@
+.alert {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+#bulbImage {
+  width:100px
+}
